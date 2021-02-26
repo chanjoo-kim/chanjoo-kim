@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi! 👋
 
 <!--
 **chanjoo-kim/chanjoo-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hey there! My name is Julie Kim(she/her). I am a Computer Science student at University of Washington.
+I started programming so that I can bring solutions into reality. Feel free to connect with me: chanjk@uw.edu
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
